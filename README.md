@@ -1,6 +1,5 @@
-<img src="./assests/image.png" alt="LinkedIn Automation" style="width:100%; height:300px; object-fit: cover;">
+<img src="./assets/image.png" alt="LinkedIn Automation" style="width:100%; height:300px; object-fit: cover;">
 <br><br>
-
 
 # Vidrona - IoT-Based Utility Monitoring System
 
@@ -13,6 +12,7 @@ Vidrona is an AI-powered utility monitoring system that uses IoT devices, Fog an
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 # Who are We?
+
 [![Watch the video](https://img.youtube.com/vi/yPIS7ShKdms/0.jpg)](https://www.youtube.com/watch?v=yPIS7ShKdms&autoplay=1)
 
 ## 🚀 Features
@@ -76,6 +76,10 @@ pytz==2022.1
 python main.py
 
 ```
+
+## 📊 Dashboards
+
+<p> <img src="assets/avg_current_by_tower.png" alt="Image 1" style="width:48%; height:auto; object-fit: cover; display:inline-block; margin-right:2%"> <img src="assets/enhanced_correlation_heatmap.png" alt="Image 2" style="width:48%; height:auto; object-fit: cover; display:inline-block;"> </p> <p style="text-align: center;"> <span>Image 1: Average Current by Tower</span> | <span>Image 2: Enhanced Correlation Heatmap</span> </p>
 
 ## Link to the Repository:
 
