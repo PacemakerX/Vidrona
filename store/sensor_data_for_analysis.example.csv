@@ -1,0 +1,8 @@
+location,current,sensor_id,risk_flag,timestamp,humidity,temperature,wind_speed,voltage
+Downtown,5.8,tower_4,0,2025-04-16T11:05:13Z,74.65,46.3,21.94,231.96
+WestTower,5.23,tower_1,1,2025-04-16T11:05:04Z,81.69,48.56,20.38,241.22
+Downtown,9.44,tower_6,0,2025-04-16T11:05:43Z,31.45,32.75,32.26,230.43
+Hilltop-Grid,8,tower_10,1,2025-04-16T11:05:22Z,68.17,36.1,4.14,231.05
+WestTower,14.49,tower_7,0,2025-04-16T11:05:52Z,79.96,31.74,25.2,245.97
+GreenValley,5.12,tower_3,0,2025-04-16T11:05:19Z,61.92,34.55,33.4,249.8
+Hilltop-Grid,11.08,tower_9,0,2025-04-16T11:04:58Z,65.62,36.53,11.56,235.94
