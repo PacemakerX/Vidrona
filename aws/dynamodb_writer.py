@@ -18,7 +18,7 @@ client = mqtt.Client(client_id="dynamodb_writer", protocol=mqtt.MQTTv5)  # Updat
 # Callback to handle received data
 def on_message(client, userdata, message):
     # Add this code temporarily to your script to print table details
-    table_description = dynamodb.meta.client.describe_table(TableName='ElectricityData')
+    table_description = dynamodb.meta.client.describe_table(TableName='ElectricLines')
     print("Table structure:", json.dumps(table_description, indent=2, default=str))
     try:
         sensor_data = json.loads(message.payload)
