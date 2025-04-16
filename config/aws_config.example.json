@@ -1,0 +1,6 @@
+{
+    "region": "<aws-region>",
+    "aws_access_key_id": "<your-access-key-id>",
+    "aws_secret_access_key": "<your-secret-access-key>",
+    "table_name": "<your-table-name>"
+}
