@@ -15,7 +15,7 @@ Vidrona is an AI-powered utility monitoring system that uses IoT devices, Fog an
 
 # Who are We?
 <video width="800" height="400" autoplay muted loop>
-  <source src="./assests/Vidrona_ video..mp4" type="video/mp4">
+  <source src="./assests/Vidrona_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
