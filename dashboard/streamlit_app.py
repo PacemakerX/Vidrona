@@ -12,7 +12,7 @@ st.markdown("---")
 
 # Load AWS config
 import json
-with open("../config/aws_config.json") as f:
+with open("./config/aws_config.json") as f:
     config = json.load(f)
 
 # Connect to DynamoDB
