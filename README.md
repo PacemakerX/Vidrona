@@ -4,12 +4,11 @@
 
 # Vidrona - IoT-Based Utility Monitoring System
 
-Vidrona is an AI-powered utility monitoring system that uses IoT devices, Fog and Edge computing, and cloud services to monitor and analyze real-time data from various sensors. The system integrates AWS services for cloud storage, Kafka for stream processing, and Streamlit for visualization on a web dashboard.
+Vidrona is an AI-powered utility monitoring system that uses IoT devices, Fog and Edge computing, and cloud services to monitor and analyze real-time data from various sensors. The system integrates AWS services for cloud storage, we can use Kafka for stream processing, and Streamlit for visualization on a web dashboard.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](#)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#))
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
@@ -21,7 +20,6 @@ Vidrona is an AI-powered utility monitoring system that uses IoT devices, Fog an
 - 🌐 **Real-Time Monitoring**: Continuously monitor environmental data from IoT sensors (e.g., temperature, humidity).
 - 🌩️ **Edge/Fog Processing**: Process sensor data locally on Edge/Fog nodes to reduce latency.
 - ☁️ **Cloud Integration**: Leverage AWS services (DynamoDB, Lambda, etc.) for cloud storage and processing.
-- ⚡ **Stream Processing**: Use Kafka to handle real-time sensor data streams for faster decision-making.
 - 📊 **Dashboard Visualization**: Visualize real-time sensor data using a Streamlit dashboard.
 - 🔒 **Data Security**: Secure communication and storage using AWS IAM roles and encryption.
 
@@ -32,7 +30,6 @@ Vidrona is an AI-powered utility monitoring system that uses IoT devices, Fog an
 - **Python**: The main programming language for automation and integration.
 - **AWS**: Utilizes various AWS services including DynamoDB, Lambda, and EC2 for cloud computing.
 - **MQTT**: Messaging protocol for communication between IoT devices and cloud.
-- **Kafka**: Stream processing for handling high-throughput sensor data.
 - **Streamlit**: Framework for building interactive dashboards to visualize real-time data.
 - **paho-mqtt**: MQTT client for communication between Edge/Fog and Cloud.
 
