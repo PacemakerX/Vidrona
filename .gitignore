@@ -1,1 +1,4 @@
-/aws
+/store/sensor_data_for_analysis.csv
+/store/cleaned_sensor_data.csv
+/store/*.png
+/config/aws_config.json
