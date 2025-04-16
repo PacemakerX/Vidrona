@@ -14,12 +14,7 @@ Vidrona is an AI-powered utility monitoring system that uses IoT devices, Fog an
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 # Who are We?
-<video width="800" height="400" autoplay muted loop>
-  <source src="./assests/Vidrona_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+[![Watch the video](https://img.youtube.com/vi/yPIS7ShKdms/0.jpg)](https://www.youtube.com/watch?v=yPIS7ShKdms&autoplay=1)
 
 ## 🚀 Features
 
